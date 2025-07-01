@@ -1,0 +1,14 @@
+body{
+	background-color: gray;
+}
+.line{
+	background-color: red;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
+.line > input{
+	width: 100%;
+	border: solid 1px black;
+	cursor: pointer;
+}
